@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Implicit</string>
+    <string name="canvasContentDescription">Implicit is a
+        simple 2D grapher. Rotate the phone to clear.</string>
+</resources>
