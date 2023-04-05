@@ -8,3 +8,8 @@ For this marching squares algorithm was used. Also for evaluation of equations a
 <img src="./readmeFiles/screen1.jpeg" height="400">
 <img src="./readmeFiles/screen2.jpeg" height="400">
 </p>
+
+#### TO DO:
+
+- Solve problem with $\sin(\frac{1}{x})$ and calculating the curve around 0
+- Add custom keyboard layout
